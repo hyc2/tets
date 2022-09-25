@@ -1,2 +1,2 @@
 # tets
-this is a description
+do the game
